@@ -1,6 +1,6 @@
 FROM nginx
 
-MAINTAINER Jaynarol
+MAINTAINER darkmagic9
 
 RUN echo '\
 <!DOCTYPE html>\
@@ -30,7 +30,7 @@ RUN echo '\
                         <a href="#" class="btn btn-default btn-sm">Facebook </a>\
                         <a href="#" class="btn btn-default btn-sm">Google</a>\
                         <a href="#" class="btn btn-default btn-sm">Twitter </a>\
-                        <a href="http://www.jaynarol.com" class="btn btn-default btn-sm">Blog </a>\
+                        <a href="http://www.google.com" class="btn btn-default btn-sm">Blog </a>\
                     </div>\
                 </div>\
             </div>\
